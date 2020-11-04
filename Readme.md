@@ -1,16 +1,16 @@
-## Clonando esse projeto
+## Executando o projeto
 
-````bash
+```bash
 git clone https://github.com/WeslleyFratini/apache-nifi.git
+```
 
 ## Utilização do Docker Compose
 
-(Necessário tem o docker instalado)
-Abrir terminal e executar comando
+(Necessário tem o docker instalado) - Abrir terminal e executar comando
 
 ```bash
 docker-compose -p nifi_teste up
-````
+```
 
 ## Ferramentas utilizadas
 
